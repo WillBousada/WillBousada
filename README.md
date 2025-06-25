@@ -19,6 +19,6 @@ This repository serves as the landing page for my GitHub profile. It showcases w
 - Git / GitHub
 
 ### 📫 Get in Touch
-- [LinkedIn]([https://www.linkedin.com/in/william-bousada/](https://www.linkedin.com/in/william-bousada-950b4823b/))  
+- [LinkedIn](https://www.linkedin.com/in/william-bousada-950b4823b/)  
 - [Portfolio](https://your-portfolio-link.com) 
 - Email: willboo34@gmail.com
